@@ -1,0 +1,21 @@
+D:/VHDL/HB_NOT/HB_NOT.VHD {1 {vcom -work work -2002 -explicit -stats=none D:/VHDL/HB_NOT/HB_NOT.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity HB_NOT
+-- Compiling architecture HB of HB_NOT
+
+} {} {}} D:/VHDL/HB_NOT/TB_HB_NOT.VHD {2 {vcom -work work -2002 -explicit -stats=none D:/VHDL/HB_NOT/TB_HB_NOT.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_NOT
+-- Compiling architecture HB of TB_HB_NOT
+** Warning: D:/VHDL/HB_NOT/TB_HB_NOT.VHD(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_NOT/TB_HB_NOT.VHD(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_NOT/TB_HB_NOT.VHD(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_NOT/TB_HB_NOT.VHD(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}
