@@ -1,0 +1,32 @@
+D:/VHDL/Example/Example.VHD {0 {vcom -work work -2002 -explicit -stats=none {D:\VHDL\Example\Example.VHD}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity HB_EXAMPLE
+** Error: D:\VHDL\Example\Example.VHD(7): Labels do not match: 'HB_EXAMPLE' and 'EXAMPLE'.
+** Error: D:\VHDL\Example\Example.VHD(7): VHDL Compiler exiting
+
+} {5.0 7.0} {}} D:/VHDL/Example/TB_EXAMPLE.VHD {0 {vcom -work work -2002 -explicit -stats=none D:/VHDL/Example/TB_EXAMPLE.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_EXAMPLE
+-- Compiling architecture HB of TB_HB_EXAMPLE
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Error: D:/VHDL/Example/TB_EXAMPLE.VHD(22): Type error resolving infix expression "<=" as type std.STANDARD.BIT.
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/Example/TB_EXAMPLE.VHD(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Error: D:/VHDL/Example/TB_EXAMPLE.VHD(24): (vcom-1136) Unknown identifier "U_HB_EXAMPLE".
+
+** Error: D:/VHDL/Example/TB_EXAMPLE.VHD(24): near ":": (vcom-1576) expecting ';'.
+
+** Error: D:/VHDL/Example/TB_EXAMPLE.VHD(30): VHDL Compiler exiting
+
+} {14.0 15.0 19.0 20.0 21.0 22.0 23.0 24.0} {}}
