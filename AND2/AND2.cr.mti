@@ -1,0 +1,24 @@
+D:/VHDL/AND2/TB_HB_AND2.VHD {2 {vcom -work work -2002 -explicit -stats=none D:/VHDL/AND2/TB_HB_AND2.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_AND2
+-- Compiling architecture HB of TB_HB_AND2
+** Warning: D:/VHDL/AND2/TB_HB_AND2.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/AND2/TB_HB_AND2.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/AND2/TB_HB_AND2.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/AND2/TB_HB_AND2.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/AND2/TB_HB_AND2.VHD(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/AND2/TB_HB_AND2.VHD(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/AND2/TB_HB_AND2.VHD(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/VHDL/AND2/AND2.VHD {1 {vcom -work work -2002 -explicit -stats=none D:/VHDL/AND2/AND2.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity HB_AND2
+-- Compiling architecture HB of HB_AND2
+
+} {} {}}
