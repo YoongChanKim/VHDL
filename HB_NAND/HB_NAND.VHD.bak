@@ -1,0 +1,16 @@
+--HB_NAND.VHD
+
+ENTITY HB_NAND IS
+PORT(
+		A,B : IN BIT;
+		X : OUT BIT 
+		);
+		END HB_NAND;
+		
+		ARCHITECTURE HB OF HB_NAND IS
+		
+		BEGIN 
+		
+		X <= NOT(A AND B);
+		
+		END HB;
