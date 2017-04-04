@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VHDL/Example
+Ehb_fa
+Z0 w1491285549
+Z1 dD:/VHDL/HB_FA
+Z2 8D:/VHDL/HB_FA/HB_FA.VHD
+Z3 FD:/VHDL/HB_FA/HB_FA.VHD
+l0
+L1
+VkjC=P<zY<CH9KjOhh]ZTH2
+!s100 YC`Yd6iXZR<FRmh1^QzTS3
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1491285893
+!i10b 1
+Z6 !s108 1491285893.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/VHDL/HB_FA/HB_FA.VHD|
+Z8 !s107 D:/VHDL/HB_FA/HB_FA.VHD|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Ahb
+DEx4 work 5 hb_fa 0 22 kjC=P<zY<CH9KjOhh]ZTH2
+l16
+L7
+V4hb73UaoL9SAzfg;OjUTj2
+!s100 ^U0Vo^FnHV]^2?:9Y^KkR1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Etb_hb_fa
+Z11 w1491285589
+Z12 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z13 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z14 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z15 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R1
+Z16 8D:/VHDL/HB_FA/TB_HB_FA.VHD
+Z17 FD:/VHDL/HB_FA/TB_HB_FA.VHD
+l0
+L4
+V4TccWC@b<=YoB9gi<RTBK0
+!s100 Z?1g<[PAA89aGRcbe8eBH3
+R4
+32
+R5
+!i10b 1
+R6
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/VHDL/HB_FA/TB_HB_FA.VHD|
+Z19 !s107 D:/VHDL/HB_FA/TB_HB_FA.VHD|
+!i113 1
+R9
+R10
+Ahb
+R12
+R13
+R14
+R15
+DEx4 work 8 tb_hb_fa 0 22 4TccWC@b<=YoB9gi<RTBK0
+l16
+L6
+VddT2ZQEE2kYU[2aTWGf7=1
+!s100 6lo5>0ZQ`^=k]UBEKdYlM3
+R4
+32
+R5
+!i10b 1
+R6
+R18
+R19
+!i113 1
+R9
+R10
