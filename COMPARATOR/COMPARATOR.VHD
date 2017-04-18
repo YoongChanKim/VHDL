@@ -1,0 +1,13 @@
+entity comparator is
+	port(A,B:in bit; Y:out bit);
+end comparator;
+architecture behavioral of comparator is
+begin
+		process(A,B)
+		begin
+			if(A=B)then Y<='1';
+			else  Y<='0';
+			end if;
+		end process;
+end;
+

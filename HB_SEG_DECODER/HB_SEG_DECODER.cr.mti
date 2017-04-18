@@ -1,0 +1,28 @@
+D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD {2 {vcom -work work -2002 -explicit -stats=none D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_SEG_DECODER
+-- Compiling architecture HB of TB_HB_SEG_DECODER
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/VHDL/HB_SEG_DECODER/HB_SEG_DECODER.VHD {1 {vcom -work work -2002 -explicit -stats=none D:/VHDL/HB_SEG_DECODER/HB_SEG_DECODER.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HB_SEG_DECODER
+-- Compiling architecture HB of HB_SEG_DECODER
+
+} {} {}}

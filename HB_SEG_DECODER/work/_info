@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VHDL/BinaryComparator
+Ehb_seg_decoder
+Z0 w1492495401
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/VHDL/HB_SEG_DECODER
+Z4 8D:/VHDL/HB_SEG_DECODER/HB_SEG_DECODER.VHD
+Z5 FD:/VHDL/HB_SEG_DECODER/HB_SEG_DECODER.VHD
+l0
+L3
+VD@3i<b0VC;Ndzk?5?jO3g3
+!s100 d0E>0@6I^6ekh5[;e=<HA1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1492495567
+!i10b 1
+Z8 !s108 1492495567.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/VHDL/HB_SEG_DECODER/HB_SEG_DECODER.VHD|
+Z10 !s107 D:/VHDL/HB_SEG_DECODER/HB_SEG_DECODER.VHD|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Ahb
+R1
+R2
+DEx4 work 14 hb_seg_decoder 0 22 D@3i<b0VC;Ndzk?5?jO3g3
+l11
+L9
+V@G9NT?NFH2>@08h_7DnIK2
+!s100 @o1C^L7VT0C7ADbJ?JHjN0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_hb_seg_decoder
+Z13 w1492495457
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z16 8D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD
+Z17 FD:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD
+l0
+L4
+V9;S<6]G3m=XBG<`9j^7;X1
+!s100 e`L@QXYGAg:16X[iPZ76<0
+R6
+32
+R7
+!i10b 1
+Z18 !s108 1492495566.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD|
+Z20 !s107 D:/VHDL/HB_SEG_DECODER/TB_HB_SEG_DECODER.VHD|
+!i113 1
+R11
+R12
+Ahb
+R14
+R15
+R1
+R2
+DEx4 work 17 tb_hb_seg_decoder 0 22 9;S<6]G3m=XBG<`9j^7;X1
+l17
+L6
+V?7IUFP;ZC8oZe=KPT<ghZ3
+!s100 b>gLm`5:mhDLTk=F=:lPB0
+R6
+32
+R7
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12

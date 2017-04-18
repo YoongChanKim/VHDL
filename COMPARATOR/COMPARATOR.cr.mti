@@ -1,0 +1,19 @@
+D:/VHDL/COMPARATOR/COMPARATOR.VHD {1 {vcom -work work -2002 -explicit -stats=none {D:\VHDL\COMPARATOR\COMPARATOR.VHD}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity comparator
+-- Compiling architecture behavioral of comparator
+
+} {} {}} D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD {2 {vcom -work work -2002 -explicit -stats=none D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity tb_comparator
+-- Compiling architecture simulation of tb_comparator
+** Warning: D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD(9): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD(9): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD(10): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD(10): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD(10): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/VHDL/COMPARATOR/TB_COMPARATOR.VHD(10): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}
